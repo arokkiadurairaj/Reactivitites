@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Domains
+﻿namespace Domains
 {
     public class WeatherForecast
     {
